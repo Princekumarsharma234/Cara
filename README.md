@@ -1,5 +1,5 @@
 # Cara
-It is the E-commerce website.
+It is the E-commerce website. where i am design the add the card, payment doing method.
 
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/643bc65b-8f78-449e-b159-25e10bdca876)
